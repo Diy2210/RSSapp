@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Server URL</key>
+	<string>https://ls.staging.coderebel.com</string>
+	<key>ALS End Point</key>
+	<string>/ls/ns/als/clsals</string>
+	<key>Auth End Point</key>
+	<string>/users/is_active_partner</string>
+	<key>MessagesEndPoint</key>
+	<string>http://www.staging.coderebel.com/messages/index.php</string>
+	<key>username</key>
+	<string></string>
+	<key>password</key>
+	<string></string>
+</dict>
+</plist>
